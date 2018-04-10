@@ -2,3 +2,15 @@ header {
   display: flex;
   justify-content: center;
 }
+
+.tweet {
+  border: 1px solid #ab9d9d;
+  margin-top: 4vh;
+  border-radius: 6px;
+  padding: 2rem;
+}
+
+.results {
+  margin-top: 1rem;
+}
+
